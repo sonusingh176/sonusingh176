@@ -12,16 +12,16 @@ I am an Associate Full Stack Developer at MachinerPoint. I’m interested in Jav
 ## 🛠️ Languages and Tools
 I work with a diverse set of technologies to build robust solutions. Here are some of the languages and tools I frequently use:
 
-- JavaScript
-- React
-- Redux
-- PHP
-- LARAVEL
-- HTML
-- CSS
-- MySQL
-- NodeJS
-- Git
+- JavaScript 💻
+- React ⚛️
+- Redux 🔄
+- PHP 🐘
+- Laravel <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="20" height="20" />
+- HTML 📄
+- CSS 🎨
+- MySQL 🐬
+- NodeJS 🚀
+- Git 🐙
 
 <!-- 
 ## 📚 Blog & Social Media
