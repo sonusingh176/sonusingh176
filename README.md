@@ -4,7 +4,7 @@
 I am an Associate Full Stack Developer at MachinerPoint. I’m interested in JavaScript programming | MERN Stack | Express | NodeJS | Laravel
 
 ### 🔥 My Stats
-- **Most Used Language:** [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonusingh176&layout=compact)](https://github.com/sonusingh176)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonusingh176&layout=compact)](https://github.com/sonusingh176)
 <!-- 
 - **GitHub Stats:** [Include your GitHub statistics here]
 -->
