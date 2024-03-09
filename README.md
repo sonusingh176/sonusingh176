@@ -16,7 +16,7 @@ I work with a diverse set of technologies to build robust solutions. Here are so
  JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Laravel" width="25" height="25" />
 React <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" alt="Laravel" width="25" height="25" />
  Redux <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" alt="Laravel" width="25" height="25" />
- PHP <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg)" alt="Laravel" width="25" height="25" />
+ PHP <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="Laravel" width="25" height="25" />
  Laravel <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="25" height="25" />
  HTML <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="Laravel" width="25" height="25" />
  CSS <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="Laravel" width="25" height="25" />
